@@ -1,0 +1,17 @@
+npm install --save
+npm install --save bootstrap@5.2.2
+npm install --save apexcharts 
+npm install --save sweetalert2
+npm install --save jquery
+npm install --save jszip
+npm install --save pdfmake
+npm install --save datatables.net-dt
+npm install --save datatables.net-editor-dt
+npm install --save datatables.net-buttons-dt
+npm install --save datatables.net-datetime
+npm install --save datatables.net-responsive-dt
+npm install --save datatables.net-rowgroup-dt
+npm install --save datatables.net-rowreorder-dt
+npm install --save datatables.net-scroller-dt
+npm install --save datatables.net-searchbuilder-dt
+npm install --save datatables.net-searchpanes-dt
